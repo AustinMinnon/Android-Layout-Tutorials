@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">LinearLayout</string>
+    <string name="redButton">Person #1</string>
+    <string name="greenButton">Person #2</string>
+    <string name="middleText">This is middle</string>
 </resources>
